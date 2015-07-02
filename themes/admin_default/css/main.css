@@ -393,6 +393,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #left-menu .nav-stacked > li+ li {
 	margin: 0;
+	white-space: nowrap;
 }
 
 #left-menu .nav > li a.subcurrent {
